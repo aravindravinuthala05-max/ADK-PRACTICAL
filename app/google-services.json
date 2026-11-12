@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "384800486625",
+    "project_id": "weather-forecast-2aeeb",
+    "storage_bucket": "weather-forecast-2aeeb.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384800486625:android:35b6c8af0ef4a28c7173a0",
+        "android_client_info": {
+          "package_name": "com.example.practicalexam"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBh3cPDCe1KCjfYhOCuAHzanP11B6fnzY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
